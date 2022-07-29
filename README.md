@@ -31,7 +31,7 @@ Before creating the analysis, we were tasked to create an Entity Relationship Di
 ### Mentorship Eligibility/Candidates
 After conducting the initial analysis and finding that majority of the employees were retiring, Pwlett-Hackward requested us to create a table showcasing senior level employees that can qualify to be members of the Mentorship Program. This program would aid new employees in achieving milestones in their new respective role.
 
-The below query is similiar to the original one. The only difference is adjusting the birthdate - this allows to be inclusive of employeeds born in 65'.
+The below query is similiar to the original one. The only difference is adjusting the birthdate - which extends the data to be inclusive of employees born in 65'.
 
 ![image](https://user-images.githubusercontent.com/102767530/181664524-34cfe4ff-21f8-4613-91f6-2ba229c920a2.png)
 
@@ -42,5 +42,7 @@ Below is the table for those eligbile to partake in the mentorship program.
 ### Summary 
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- From reviewing the data, there will be approx. 72,000 employees retiring in the near future. That means, Pewlett-Hackward would need to aggresively market their company and bring in nearly 60-70K employees to fill the gap. 
+3. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- As majority of the retirement-ready employees are not only tenured but also hold SR. Level Positions - they are more than capable of mentoring the newer group of employees. The mentorship program creates an opportunity for the silver surfers to provide guidance, leverage their knowledge, and help build the new generation of employees in the company. 
 
